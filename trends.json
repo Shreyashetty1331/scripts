@@ -173,7 +173,7 @@
 {
                "trendId":18,
                "botFileName":"mlg_know_about_covid19_en_how_to_self_isolate",
-               "isLockedTrend":0,
+               "isLockedTrend":0, 
                "isLearnBot":1,
                "isTestBot":0,
                "isSeparator":0,
